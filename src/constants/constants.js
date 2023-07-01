@@ -52,8 +52,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2018, text: "Delhi Public School , 10th" },
-  { year: 2020, text: "Fitjee Junior College , Intermediate" },
+  { year: 2018, text: "Delhi Public School , 10th 89.9%" },
+  { year: 2020, text: "Fitjee Junior College , Intermediate 89.5%" },
   { year: 2020, text: "Joined VIT vellore , CSE with Business Systems" },
   { year: 2023, text: "Currently in my final year" },
 ];
