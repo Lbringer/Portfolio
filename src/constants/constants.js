@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/1.png",
     tags: ["React", "CSS"],
     source: "https://github.com/Lbringer/GPT-3",
-    visit: "#",
+    visit: "https://gpt-3-concept.onrender.com/",
     id: 0,
   },
   {
@@ -16,7 +16,7 @@ export const projects = [
     image: "/images/2.png",
     tags: ["React", "Tailwind"],
     source: "https://github.com/Lbringer/Hoobank",
-    visit: "#",
+    visit: "https://hoobank-concept.onrender.com/",
     id: 1,
   },
   {
@@ -26,7 +26,7 @@ export const projects = [
     image: "/images/3.png",
     tags: ["Node", "Express", "MongoDB"],
     source: "https://github.com/Lbringer/techNotes-API",
-    visit: "#",
+    visit: "https://technotes-api-5iyt.onrender.com/",
     id: 2,
   },
   {
@@ -36,7 +36,7 @@ export const projects = [
     image: "/images/5.png",
     tags: ["Salesforce"],
     source: "#",
-    visit: "#",
+    visit: "https://drive.google.com/file/d/1zw-u9w0ADw7oq4NPXFNhMrjl1wARIP8w/view?usp=sharing",
     id: 3,
   },
   {
