@@ -33,7 +33,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
+            Experience with <br />
             React.js
           </ListParagraph>
         </ListContainer>
